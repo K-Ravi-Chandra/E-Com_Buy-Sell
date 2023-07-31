@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekManiCharan/E-Com.git"
+  },
+  "keywords": [
+    "E-com",
+    "dbms",
+    "node",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekManiCharan/E-Com/issues"
+  },
+  "homepage": "https://github.com/VivekManiCharan/E-Com#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}

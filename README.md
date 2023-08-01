@@ -16,4 +16,5 @@ https://github.com/K-Ravi-Chandra/E-Com_Buy-Sell/assets/73428137/4f411c90-2220-4
 
 
 
+![cs19b019_cs19b020_cs19b032_ER_diagram](https://github.com/K-Ravi-Chandra/E-Com_Buy-Sell/assets/73428137/b8dec7c9-dae7-49ce-bfa5-85ba8a8d9403)
 
